@@ -4,7 +4,7 @@ package edu.pingpong.romanos;
  * Hello world!
  *
  */
-public class App 
+public class Romanos 
 {
     public static void main( String[] args )
     {
