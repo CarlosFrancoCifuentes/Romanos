@@ -1,6 +1,16 @@
 package edu.pingpong.romanos;
 
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNotEquals;
+import static org.junit.Assert.assertTrue;
+
+import org.junit.BeforeClass;
+import org.junit.Test;
+
+import edu.pingpong.romanos.NumeroRomano;
+
 public class NumeroRomanoTest {
+    
     public static NumeroRomano numeroRomano;
 
     @BeforeClass
